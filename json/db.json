@@ -1,0 +1,18 @@
+{
+  "User": [
+    {
+      "name": "Sarvesh",
+      "email": "sarveshmd11@gmail.com",
+      "password": "$2a$10$askyU1NVCEVbcjIroNwCLOUmssCS2Q4TuKiOgk.34Y7aaFmNxVEtq",
+      "pass": "123456",
+      "id": 1
+    },
+    {
+      "name": "Barry",
+      "email": "StarLabs@gmail.com",
+      "password": "$2a$10$6svoQ31nYWZ5tKDcIGZoTuLCou72QKdCiIfn4NWaeKCQ3p9AIqHvu",
+      "pass": "123456789",
+      "id": 2
+    }
+  ]
+}
